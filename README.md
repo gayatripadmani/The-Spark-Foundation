@@ -1,2 +1,2 @@
 # The-Spark-Foundation
-Data Science  &amp; Business Analytics Tasks
+I'm working as a Data Science & Business Analytics intern at The Sparks Foundation under Graduate Rotational Internship Program. And these are the files of my tasks performed during the internship.
