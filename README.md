@@ -70,6 +70,20 @@ I'm working as a Data Science & Business Analytics intern at The Sparks Foundati
 
 ### Task 6 : Stock Market Prediction using Numerical and Textual Analysis
 
+● Create the Decision Tree classifier and visualize it graphically.
+
+● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+● Dataset : https://bit.ly/3kXTdox
+
+● Sample Solution : https://bit.ly/2G6sYx9
+
+● Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Task 7 : Stock Market Prediction using Numerical and Textual Analysis
+
 ● Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
 
 ● Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
@@ -79,3 +93,17 @@ I'm working as a Data Science & Business Analytics intern at The Sparks Foundati
 ● Download textual (news) data from https://bit.ly/36fFPI6
 
 ● Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Task 8 : Timeline Analysis : Covid-19
+
+● Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
+
+● Use animation, timeline and annotations to create attractive and interactive dashboards and story
+
+● Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts
+
+● Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
+
+● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
